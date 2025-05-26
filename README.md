@@ -1,11 +1,11 @@
 
-# Ahmad Raza - Portfolio Website
+# Saidul Hoque - Portfolio Website
 
 A modern, responsive portfolio website showcasing my skills and projects as an aspiring Software Developer. Built with cutting-edge web technologies and featuring a sleek, professional design.
 
 ## 🚀 Live Demo 
 
-**URL**: https://md-ahmad-raza.online/
+**URL**: https://gregarious-sorbet-3ff535.netlify.app/
 ## ✨ Features
 
 - **Modern Design**: Clean, professional interface with smooth animations
@@ -122,7 +122,7 @@ npm run lint         # Run ESLint
 
 ## 🌐 Deployment
 
-md-ahmad-raza.online
+https://gregarious-sorbet-3ff535.netlify.app/
 
 ### Custom Domain
 To connect a custom domain:
@@ -167,6 +167,6 @@ Aspiring Software Developer passionate about creating innovative web solutions.
 
 ---
 
-**Built with ❤️ using MD AHMAD RAZA**
+**Built with ❤️ using Saidul Hoque**
 
 *"Building the future, one line of code at a time"*
