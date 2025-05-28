@@ -11,7 +11,7 @@ const Portfolio = () => {
       github: 'https://github.com/saidul-122/food-delevary-application',
       demo: 'https://heartfelt-swan-8f77f0.netlify.app/',
       image:
-        '/public/Food.png',
+        '/Food.png',
       category: 'Food Delivery'
     },
     {
