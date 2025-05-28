@@ -22,7 +22,7 @@ const Portfolio = () => {
       github: 'https://github.com/saidul-122/DashBoard-in-HealthCare', // Replace with actual link if available
       demo: 'https://clinicmanager.netlify.app/',   // Replace with actual link if available
       image:
-        '/public/health.jpg',
+        '/health.jpg',
       category: 'Healthcare'
     },
     {
@@ -33,7 +33,7 @@ const Portfolio = () => {
       github: 'https://github.com/saidul-122/Jobify',
       demo: 'https://jobify.live/',
       image:
-        '/public/job.avif',
+        '/job.avif',
       category: 'Job Management'
     }
   ];
